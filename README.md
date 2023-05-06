@@ -1,13 +1,5 @@
 ### Hi there 👋
-https://codesandbox.io/s/github-profile-forked-iyfmc8?file=/src/main.js
 
-<a href="https://codesandbox.io/s/github-profile-forked-iyfmc8?fontsize=14&hidenavigation=1&theme=dark">
-  <img alt="Edit Github profile (forked)" src="https://codesandbox.io/static/img/play-codesandbox.svg">
-</a>
-
-[![Edit Github profile (forked)](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github-profile-forked-iyfmc8?fontsize=14&hidenavigation=1&theme=dark)
-
-https://iyfmc8.csb.app/
 
 
 
