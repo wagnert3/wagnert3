@@ -1,1 +1,3 @@
-![1683393691818](image/README/1683393691818.png)
+**`<p align="center">`**
+  **`<img src="intro.gif" alt="intro gif" />`**
+**`</p>`**
