@@ -1,3 +1,3 @@
-**`<p align="center">`**
-  **`<img src="Intro.gif" alt="Intro gif" />`**
-**`</p>`**
+<p align="center">
+  <img src="Intro.gif" alt="Intro gif" />
+</p>
