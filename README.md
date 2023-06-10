@@ -31,7 +31,11 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 <br>
 
-<img src="code.gif" alt="code gif" width="400" height="320" /><img align="right" src="https://github-readme-stats.vercel.app/api?username=wagnert3&show_icons=true&theme=white" alt="wagnert3" width="400" />
+<img src="code.gif" alt="code gif" width="400" height="320" />
+
+<p align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=wagnert3&show_icons=true&theme=white" alt="wagnert3" width="400" /> 
+</p>
   
  <br> 
  
