@@ -28,10 +28,10 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
   </a>
 </p>
 
-<br>
+
 <br>
 
-<img src="code.gif" alt="code gif" width="450" height="320" /><img src="https://github-readme-stats.vercel.app/api?username=wagnert3&show_icons=true&theme=white" alt="wagnert3" />
+<img src="code.gif" alt="code gif" width="400" height="320" /><img src="https://github-readme-stats.vercel.app/api?username=wagnert3&show_icons=true&theme=white" alt="wagnert3" />
   
  <br> 
  
@@ -41,14 +41,4 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
   [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 
-  
-
-
-
-
-
-
-
-
-
-
+ 
