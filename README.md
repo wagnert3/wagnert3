@@ -27,18 +27,24 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
     <img src="https://skillicons.dev/icons?i=js,html,css,figma,dart,flutter,github,cs,visualstudio,vscode,autocad,blender" />
   </a>
 </p>
-<br>
-<br>
-<img align="left" src="code.gif?raw=false" alt="code gif" width="500" height="320" />
 
-<p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=wagnert3&show_icons=true&theme=white" alt="wagnert3" />
- <br> <br>  <br>  
+<br>
+<br>
+
+<img src="code.gif" alt="code gif" width="450" height="320" /><img src="https://github-readme-stats.vercel.app/api?username=wagnert3&show_icons=true&theme=white" alt="wagnert3" />
   
+ <br> 
+ 
+ ![snake gif](https://github.com/wagnert3/wagnert3/blob/output/github-contribution-grid-snake.gif)
+ 
+<br>
+
   [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
-  
-<br>
 
-![snake gif](https://github.com/wagnert3/wagnert3/blob/output/github-contribution-grid-snake.gif)
+  
+
+
+
 
 
 
