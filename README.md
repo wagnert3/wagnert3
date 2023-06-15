@@ -17,9 +17,9 @@
 </p>
 
 
-A passionate web developer and 3D Modeler from Brazil. My passion for technology lies with dreaming up ideas and making them come true with elegant interfaces. I like taking care care in the experience, architecture, and code quality of the things I build.
+A passionate web developer and 3D Modeler from Brazil. My passion for technology lies in dreaming up ideas and making them come true with elegant interfaces. I like taking care of the experience, architecture, and code quality of the things I build.
 
-I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+I am also an open-source enthusiast. I learned a lot from the open-source community, and I love how collaboration and knowledge sharing happened through open-source.
 <br><br><br><br><br>
 
 <p align="center">
