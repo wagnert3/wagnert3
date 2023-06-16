@@ -29,7 +29,6 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 </p>
 
 <br>
-
 <p align="center">
   <img src="code.gif" alt="code gif" width="400" height="320" />
   <img src="https://github-readme-stats.vercel.app/api?username=wagnert3&show_icons=true&theme=white" alt="wagnert3" width="400" /> 
