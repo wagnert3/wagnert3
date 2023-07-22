@@ -2,7 +2,7 @@
   <img align="left" alt="Wagner's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"/>
 </a>
 <a href="https://discord.gg/wagnert3#0443">  
-  <img align="left" alt="Wagner's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Wagner's Discord" width="22px" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" />
 </a>
 <a href="https://twitter.com/">
   <img align="left" alt="Wagner Santiago | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
