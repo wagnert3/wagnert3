@@ -5,7 +5,7 @@
   <img align="left" alt="Wagner's Discord" width="22px" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" />
 </a>
 <a href="https://twitter.com/">
-  <img align="left" alt="Wagner Santiago | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Wagner Santiago | Twitter" width="22px" src="https://cdn1.iconfinder.com/data/icons/social-media-set-for-free/32/twitter-512.png" />
 </a>
 <a href="https://www.linkedin.com/in/wagnersantiago/">
   <img align="left" alt="Wagner's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
