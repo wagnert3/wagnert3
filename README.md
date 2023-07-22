@@ -8,7 +8,7 @@
   <img align="left" alt="Wagner Santiago | Twitter" width="22px" src="https://cdn1.iconfinder.com/data/icons/social-media-set-for-free/32/twitter-512.png" />
 </a>
 <a href="https://www.linkedin.com/in/wagnersantiago/">
-  <img align="left" alt="Wagner's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Wagner's LinkedIN" width="22px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" />
 </a>
 
 <br>
